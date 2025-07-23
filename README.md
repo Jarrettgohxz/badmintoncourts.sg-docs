@@ -1,10 +1,10 @@
 # Badminton Courts SG
 
-![alt text](icon/go_badminton.png)
+![alt text](go_badminton.png)
 
 Ever wanted to find a badminton court in Singapore, but ended up stuck manually clicking through every single venue just to check one date? Well, as an active Badminton player, I understand your struggle as I’ve been through that pain way too many times. But not to worry, I got you 😉.
 
-Introducing a simple automation software written in the [Go](https://go.dev/) <img src="icon/golang.png" width="30" height="30"/> programming language. It provides a compiled listing of Badminton courts around Singapore.
+Introducing a simple automation software written in the [Go](https://go.dev/) <img src="golang.png" width="30" height="30"/> programming language. It provides a compiled listing of Badminton courts around Singapore.
 
 Check out the live webpage at https://badmintoncourts.sg. Currently, it only supports the following sources: **ActiveSG** and **OnePA**, with plans to extend to private courts soon :) _OH YEAH_, and guess what? It even comes with a map display for an easy and interactive location-based view!
 
